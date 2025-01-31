@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "my.id.alvian" "\0"
-            VALUE "FileDescription", "pert8" "\0"
+            VALUE "FileDescription", "D_Gallerie-Apps" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "pert8" "\0"
+            VALUE "InternalName", "D_Gallerie-Apps" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 my.id.alvian. All rights reserved." "\0"
-            VALUE "OriginalFilename", "pert8.exe" "\0"
-            VALUE "ProductName", "pert8" "\0"
+            VALUE "OriginalFilename", "D_Gallerie-Apps.exe" "\0"
+            VALUE "ProductName", "D_Gallerie-Apps" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
